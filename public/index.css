@@ -1,0 +1,16 @@
+.todo {
+    margin: 10px 10px;
+}
+.todoLabel {
+    color: black;
+    background-color: rgb(233, 233, 233);
+    border-radius: 5px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.completed {
+    text-decoration: line-through;
+}
